@@ -49,9 +49,6 @@
 </div>
 
 ----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JefersonDominguez/JefersonDominguez/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
-</p>
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
