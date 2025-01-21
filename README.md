@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hola a Todos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
 <a href="https://twitter.com/TU_TWITTER" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>&nbsp;
@@ -9,14 +9,13 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### 🤵 About Me:
+### 🤵 Sobre mi:
 - 🏦 I'm currently working on [describe your project or role here]. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily `Java`, `JavaScript`, `MySQL`.
-- 🌱 I’m currently learning [add what you're learning here].
-- 💬 Talk to me about tech, programming, and development.
-- 😄 Pronouns: He/Him
-- 📝 I regularly write articles on [your blog URL].
-- ⚡ Fun fact: [Add something fun about you].
+- 🤔 Conocimientos en `html`, `JavaScript`, `MySQL`, `PHP`, `React`, `Bootstrapp`, `java`, `Node.js`.
+- 🌱 Actualmente estoy aprendiendo `Express-BD`, `Prisma`.
+- 💬 Hablemos sobre tecnología, programación y desarrollo.
+- 😄 Pronombres: Él/Él.
+- ⚡ Dato curioso: ¡Construí mi primera página web usando HTML puro cuando tenía solo [edad] años! Ahora, me apasiona desarrollar aplicaciones con React y Node.js.
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
