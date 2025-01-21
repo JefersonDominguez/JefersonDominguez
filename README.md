@@ -73,6 +73,5 @@ Credit: [JefersonDominguez](https://github.com/JefersonDominguez)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
+Credit: [JefersonDominguez](https://github.com/JefersonDominguez)
 
-Last Edited on: 26/11/2020
