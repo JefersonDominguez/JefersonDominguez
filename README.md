@@ -54,5 +54,5 @@
 - [Add your latest  posts here]
 <!-- BLOG-POST-LIST:END -->
 
-### 😜Here's a Joke for you:
+### 😜Aqui tienes un chiste para ti:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
