@@ -51,7 +51,7 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Add your latest  posts here]
+- [Add your  latest  posts here]
 <!-- BLOG-POST-LIST:END -->
 
 ### 😜Aqui tienes un chiste para ti:
