@@ -49,7 +49,7 @@
 
 ----
 
-### 📕 My Latest Blog posts:
+### 📕 My Latest Blog posts :
 <!-- BLOG-POST-LIST:START -->
 - [Add your latest  posts here ]
 <!-- BLOG-POST-LIST:END -->
