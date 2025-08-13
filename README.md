@@ -49,9 +49,9 @@
 
 ----
 
-### 📕 My Latest Blog posts :
+### 📕 Mis últimas publicaciones en el blog :
 <!-- BLOG-POST-LIST:START -->
-- [Add your latest  posts here ]
+- [..]
 <!-- BLOG-POST-LIST:END -->
 
 ### 😜Aqui tienes un chiste para ti:
