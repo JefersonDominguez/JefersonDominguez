@@ -11,7 +11,7 @@
 
 ### 🤵Sobre mi :
 - 🏦 Actualmente estoy trabajando en desarrollo web. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 Conocimientos en `html`, `JavaScript`, `MySQL`, `PHP`, `React`, `Bootstrapp`, `java`, `Node.js`.
+- 🤔 Conocimientos en `html`, `JavaScript`, `MySQL`, `PHP`, `React`, `Bootstrapp`, `Tailwindcss`, `java`, `Node.js`.
 - 🌱 Actualmente estoy aprendiendo `Express-BD`, `Prisma`, `Laravel`.
 - 💬 Hablemos sobre tecnología, programación y desarrollo.
 - 😄 Pronombres: Él/Él.
