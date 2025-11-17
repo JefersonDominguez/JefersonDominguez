@@ -1,4 +1,4 @@
-Mostrar imagen
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3FBFEF&center=true&vCenter=true&random=false&width=600&lines=💻+Desarrollador+Full+Stack;🚀+Apasionado+por+la+Tecnología;🌟+Creando+Soluciones+Innovadoras;📚+Siempre+Aprendiendo;🎨+Código+Limpio+y+Elegante" alt="Typing SVG" /></a>
 </p>
@@ -44,35 +44,6 @@ javascriptconst jeferson = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Stack Tecnológico
-🎨 Frontend
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-⚙️ Backend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-🗄️ Bases de Datos
-Mostrar imagen
-Mostrar imagen
-🚀 DevOps & Herramientas
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-💻 Otros Lenguajes
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -228,4 +199,3 @@ ObjetivoProgresoEstado🔴 Dominar Laravel▰▰▰▰▰▰▱▱▱▱ 60%🔄
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-Mostrar imagen
