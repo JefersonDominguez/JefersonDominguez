@@ -23,22 +23,24 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Sobre Mí
-javascriptconst jeferson = {
-    ubicacion: "Lima, Perú 🇵🇪",
-    rol: "Desarrollador Full Stack",
-    trabajoActual: "Desarrollo Web Profesional",
-    conocimientos: {
-        lenguajes: ["JavaScript", "Java", "Python", "PHP", "HTML5", "CSS3"],
-        frontend: ["React", "Bootstrap", "TailwindCSS"],
-        backend: ["Node.js", "Express", "Laravel", "Spring"],
-        databases: ["MySQL", "Prisma"],
-        devOps: ["Docker", "Kubernetes", "Heroku", "Azure"],
-        tools: ["Git", "Maven", "Jupyter Notebook"]
-    },
-    aprendiendo: ["Express + BD", "Prisma ORM", "Laravel Framework"],
-    objetivos2025: ["Dominar Laravel", "Contribuir a Open Source", "Crear proyectos escalables"],
-    datoCurioso: "¡Construí mi primera web con HTML puro a los 16! 🎉"
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" alt="Developer"> **Sobre Mí**
+
+```javascript
+const jeferson = {
+  ubicacion: "Lima, Perú 🇵🇪",
+  rol: "Desarrollador Full Stack",
+  trabajoActual: "Desarrollo Web Profesional",
+  conocimientos: {
+    lenguajes: ["JavaScript", "Java", "Python", "PHP", "HTML5", "CSS3"],
+    frontend: ["React", "Bootstrap", "TailwindCSS"],
+    backend: ["Node.js", "Express", "Laravel", "Spring"],
+    databases: ["MySQL", "Prisma"],
+    devOps: ["Docker", "Kubernetes", "Heroku", "Azure"],
+    tools: ["Git", "Maven", "Jupyter Notebook"]
+  },
+  aprendiendo: ["Express + BD", "Prisma ORM", "Laravel Framework"],
+  objetivos2025: ["Dominar Laravel", "Contribuir a Open Source", "Crear proyectos escalables"],
+  datoCurioso: "¡Construí mi primera web con HTML puro a los 16! 🎉"
 };
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
