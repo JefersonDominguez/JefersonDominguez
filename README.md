@@ -35,6 +35,7 @@
 - 💬 Hablemos sobre tecnología, programación y desarrollo.
 - 😄 Pronombres: Él/Él.
 - ⚡ Dato curioso: ¡Construí mi primera página web usando HTML puro cuando tenía solo 16 años! Ahora, me apasiona desarrollar aplicaciones con React y Node.js.
+  
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
