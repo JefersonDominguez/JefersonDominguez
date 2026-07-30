@@ -32,7 +32,7 @@
 ### 🤵Sobre mi :
 - 🏦 Actualmente estoy trabajando en desarrollo web. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 Conocimientos en `html`, `JavaScript`, `MySQL`, `PHP`, `React`, `Bootstrapp`, `Tailwindcss`, `java`, `Node.js`.
-- 🌱 Actualmente estoy aprendiendo `Express-BD`, `Prisma`, `Laravel`, `MySQL`.
+- 🌱 Actualmente estoy aprendiendo `Express-BD`, `Prisma`, `Laravel`.
 - 💬 Hablemos sobre tecnología, programación y desarrollo.
 - 😄 Pronombres: Él/Él.
 - ⚡ Dato curioso: ¡Construí mi primera página web usando HTML puro cuando tenía solo 16 años! Ahora, me apasiona desarrollar aplicaciones con React y Node.js.
